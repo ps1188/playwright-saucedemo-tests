@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Playwright outputs
+test-results/
+playwright-report/
+playwright/.cache/
+
+# OS / editor files
+.DS_Store
