@@ -73,18 +73,6 @@ looks for `data-testid`, but SauceDemo uses `data-test` instead.
 `getByTestId('username')` finds `data-test="username"`. That is the
 only config difference that matters here.
 
-## My 6–8 week learning path
-
-This project is Week 7. The rest of the plan:
-
-1. **Weeks 1–2 — PDF Editor project.** Playwright basics, POM, role selectors.
-2. **Weeks 3–4 — API tests.** Playwright `request`, GET / POST / PUT /
-   PATCH / DELETE, auth, chaining.
-3. **Weeks 5–6 — CI + structure.** GitHub Actions, test tags (`@smoke`).
-4. **Week 7 — this project.** Same POM pattern on a second app
-   (SauceDemo), to prove the skill transfers.
-5. **Week 8 — interview prep.** Explain these two projects, practice
-   questions for manual + automation hybrid roles.
 
 ## What I can honestly put on my resume after this
 
